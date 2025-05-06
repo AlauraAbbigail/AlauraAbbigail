@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlauraAbbigail
-- 👀 I’m interested in App Development and AI projects
-- 🌱 I’m currently learning C, C++, and Assembly
-- 💞️ I’m looking to collaborate on just school projects at the moment
+- 👀 I’m interested in App/Web Development and AI projects
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking for an internship or co-op opportunity
 - 📫 How to reach me Alaura.abbigail@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm left handed :)
